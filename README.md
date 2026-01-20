@@ -1,2 +1,2 @@
-# elasticsearch-installation
+# elk-installation
 ELK INSTALLATION IN DEBAIN OS (ELASTICSEARCH ,LOGSTASH ,KIBANA)
